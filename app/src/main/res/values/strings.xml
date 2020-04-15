@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="cBox1">Java</string>
+    <string name="cBox2">Kotlin</string>
+    <string name="cBox3">Python</string>
+    <string name="cBox4">C</string>
+    <string name="cBox5">C++</string>
+    <string name="btnText">Ekle</string>
+</resources>
